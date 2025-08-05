@@ -4,7 +4,7 @@ This project performs sentiment analysis on customer reviews for the iPhone 15 1
 Overview
 In this project, we:
 
-Scraped customer reviews from Flipkart’s product page.
+Scraped customer reviews from Amazon’s product page.
 
 Preprocessed the review data for sentiment analysis.
 
