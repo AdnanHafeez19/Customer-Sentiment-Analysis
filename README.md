@@ -12,24 +12,7 @@ Applied TextBlob to classify sentiments as positive or negative.
 
 Performed data analysis to uncover trends, insights, and recommendations for product improvement.
 
-Table of Contents
-Technologies Used
 
-Project Setup
-
-Data Collection
-
-Data Preprocessing
-
-Sentiment Analysis
-
-Data Analysis & Insights
-
-How to Run
-
-Results & Insights
-
-Contributions
 
 Technologies Used
 Python 3.x
